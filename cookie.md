@@ -30,12 +30,14 @@
 Чтобы удалить файлы cookie:
 
 1. Откройте браузер и нажмите <img src="https://github.com/Kate-S-S/concept-topics/blob/master/Images/Cookie_2.png" alt="Меню браузера" width="24" height="24"> в правом верхнем углу экрана.  
-
+![Меню браузера][def2]
 1. Нажмите **Журнал**, затем **Удалить историю**.  
 Откроется окно очистки истории браузера.  
-
+![Окно очистки истории браузера][def3]
 1. Выберите временной период из списка.
 1. Выберите пункт **Куки и данные сайтов**.
 1. Нажмите **Удалить**. Файлы cookie за выбранный временной диапазон будут удалены.
 
 [def1]: https://github.com/Kate-S-S/concept-topics/blob/master/Images/Cookie_1.png
+[def2]: https://github.com/Kate-S-S/concept-topics/blob/master/Images/Cookie_3.png
+[def3]: https://github.com/Kate-S-S/concept-topics/blob/master/Images/Cookie_4.png
